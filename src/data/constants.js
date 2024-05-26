@@ -223,7 +223,8 @@ export const projects = [
     description:
       "Immerse yourself in the seamless experience of our Indian Dry Cleaner website, meticulously crafted with HTML, CSS, and JavaScript. Our stringent adherence to strict CSS principles ensures unparalleled responsiveness across all devices, employing innovative grid and flex layouts. Whether booking appointments or seeking further details, our user-centric design guarantees optimal engagement. Experience convenience redefined as you engage with us for all your dry-cleaning needs.",
     projectLink: "https://cadt-indian-dry-cleaner.netlify.app",
-    image: "/public/indian-dry.png",
+    image:
+      "https://github.com/ajaySingh2615/ajay_portfolio_website/blob/main/public/indian-dry.png?raw=true",
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "Git", "GitHub"],
     category: "web app",
     github: "",
@@ -236,7 +237,7 @@ export const projects = [
     description:
       "Embark on a journey through cutting-edge Full Stack Development with our meticulously crafted web application. We've seamlessly integrated HTML, CSS, JavaScript, and Bootstrap for a captivating frontend, while Node.js, Express.js, and EJS power our dynamic backend. Our focus on Database Management is unparalleled, leveraging MongoDB and Mongoose for efficient data handling and retrieval. With robust User Authentication and Authorization features, your security is our priority.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://github.com/ajaySingh2615/ajay_portfolio_website/blob/main/public/air.png?raw=true",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/ajaySingh2615/Full_Stack_Project",
@@ -257,7 +258,7 @@ export const projects = [
     description:
       "Welcome to Forkify, your go-to destination for dynamic recipe management, where users effortlessly add, organize, and explore their favorite culinary creations. Crafted with precision using HTML, CSS, Bootstrap, and pure JavaScript, this website offers a seamless blend of functionality and aesthetics. Dive into a world of culinary delights, where every dish is just a click away, thanks to our intuitive search and organization features. Whether you're a novice chef.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://github.com/ajaySingh2615/ajay_portfolio_website/blob/main/public/fokiy.png?raw=true",
     tags: ["HTML", "CSS", "JavaScript", "Git"],
     category: "web app",
     github: "https://github.com/ajaySingh2615/Full_Stack_Project",
