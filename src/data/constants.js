@@ -3,7 +3,7 @@ export const Bio = {
   roles: [
     "Full Stack Developer",
     "Frontend Developer",
-    "Backend Designer",
+    "Backend Developer",
     "Programmer",
   ],
   description:
@@ -222,13 +222,12 @@ export const projects = [
     date: "Feb 2023 - May 2023",
     description:
       "Immerse yourself in the seamless experience of our Indian Dry Cleaner website, meticulously crafted with HTML, CSS, and JavaScript. Our stringent adherence to strict CSS principles ensures unparalleled responsiveness across all devices, employing innovative grid and flex layouts. Whether booking appointments or seeking further details, our user-centric design guarantees optimal engagement. Experience convenience redefined as you engage with us for all your dry-cleaning needs.",
-    projectLink: "https://cadt-indian-dry-cleaner.netlify.app",
     image:
       "https://github.com/ajaySingh2615/ajay_portfolio_website/blob/main/public/indian-dry.png?raw=true",
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "Git", "GitHub"],
     category: "web app",
-    github: "",
-    webapp: "cadt-indian-dry-cleaner.netlify.app",
+    // github: "https://cadt-indian-dry-cleaner.netlify.app",
+    webapp: "https://cadt-indian-dry-cleaner.netlify.app",
   },
   {
     id: 1,
