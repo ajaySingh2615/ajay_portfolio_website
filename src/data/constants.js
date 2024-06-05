@@ -10,7 +10,7 @@ export const Bio = {
     "Innovative Problem Solver with Expertise in Java, JavaScript, and Spring Boot, Passionate About Creating Impactful Solutions in Dynamic Environments. Committed to delivering efficient and user-friendly solutions.",
   github: "https://www.linkedin.com/in/cadt14/",
   resume:
-    "https://drive.google.com/file/d/1yJwMJAGtJHzbeMCRRV7KScfpNIMfo0uV/view?usp=sharing",
+    "https://drive.google.com/file/d/1aSi65X4Td6oSy21LW-EQJ3Wf7tf0Kzrl/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/cadt14/",
   twitter: "https://x.com/Ajay22661155",
   insta: "https://www.instagram.com/cadt14?igsh=MXF1M2R5ZzJycnJldA==",
